@@ -1,158 +1,143 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Hey+there!+I'm+Ranith+Gunawardana+👋;Full-Stack+Developer+%7C+Tech+Enthusiast;Building+Amazing+Web+Applications;Always+Learning%2C+Always+Coding+🚀" alt="Typing SVG" />
+
+# Ranith Gunawardana
+
+### Full-Stack Developer | Open-Source Enthusiast | Building Modern Web Applications
+
+[![Profile Views](https://komarev.com/ghpvc/?username=techie-ranith&style=flat-square&color=0e75b6)](https://github.com/techie-ranith)
+[![GitHub followers](https://img.shields.io/github/followers/techie-ranith?label=Followers&style=flat-square&color=0e75b6)](https://github.com/techie-ranith?tab=followers)
+[![Years on GitHub](https://badges.pufler.dev/years/techie-ranith?style=flat-square&color=0e75b6)](https://github.com/techie-ranith)
+
 </div>
+
+---
+
+## About
+
+I'm a full-stack developer with a passion for creating scalable web applications and contributing to open-source projects. With expertise in Python Flask, modern frontend frameworks, and database design, I focus on building solutions that solve real-world problems. Currently expanding my skills in backend architecture, RESTful API development, and cloud technologies.
+
+My work spans from CRUD applications to comprehensive web platforms, always with an emphasis on clean code, user experience, and maintainable architecture. I believe in continuous learning and sharing knowledge with the developer community.
+
+## Achievements & Highlights
+
+- **Active Contributor** • Maintaining multiple open-source Flask projects and libraries
+- **Database Architect** • Designed and implemented scalable SQL database schemas for production applications
+- **Problem Solver** • 100+ coding challenges solved across various platforms
+- **Community Builder** • Sharing knowledge through code, documentation, and collaborative development
+---
+
+## Connect
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/ranith-gunawardana)
+[![Twitter](https://img.shields.io/badge/Twitter-000000?style=flat-square&logo=x&logoColor=white)](https://twitter.com/_Ranith)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/RanithGunawardana/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/ranith_gunawardana/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:ranithgunawardana@gmail.com)
+
+</div>
+
+---
+
+## Tech Stack
+
+<div align="center">
+
+**Languages**  
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=black)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+**Frameworks & Libraries**  
+![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+![jQuery](https://img.shields.io/badge/-jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white)
+
+**Databases & Tools**  
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![PyCharm](https://img.shields.io/badge/-PyCharm-000000?style=flat-square&logo=pycharm&logoColor=white)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+
+</div>
+
+---
+
+## GitHub Analytics
 
 <div align="center">
   
-  [![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Ftechie-ranith&label=Profile%20Views&countColor=%2337d67a&style=flat&labelStyle=upper)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Ftechie-ranith)
-  [![Years Badge](https://badges.pufler.dev/years/techie-ranith)](https://badges.pufler.dev)
-  [![Repos Badge](https://badges.pufler.dev/repos/techie-ranith)](https://badges.pufler.dev)
-  [![Commits Badge](https://badges.pufler.dev/commits/monthly/techie-ranith)](https://badges.pufler.dev)
-  
-</div>
-
-## 💫 About Me
-
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-
-```python
-class Developer:
-    def __init__(self):
-        self.name = "Ranith Gunawardana"
-        self.role = "Full-Stack Developer"
-        self.language_spoken = ["en_US", "si_LK"]
-        
-    def current_work(self):
-        return [
-            "🔨 Building CRUD applications with Python Flask",
-            "🌱 Learning Back-end development & SQL",
-            "👯 Looking to collaborate on Flask projects",
-            "💻 Passionate about desktop & web development"
-        ]
-    
-    def say_hi(self):
-        print("Thanks for dropping by! Let's build something amazing together 🚀")
-
-dev = Developer()
-dev.say_hi()
-```
-
-
-## 🌐 Connect With Me
-
-<div align="center">
-
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/RanithGunawardana/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ranith_gunawardana/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/_Ranith)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ranith-gunawardana)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ranithgunawardana@gmail.com)
-
-</div>
-
-## �️ Tech Stack & Tools
-
-<div align="center">
-
-### 💻 Programming Languages
-![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-### 🚀 Frameworks & Libraries
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
-
-### 🗄️ Databases & Cloud
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-### 🔧 Development Tools
-![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![PyCharm](https://img.shields.io/badge/PyCharm-000000.svg?style=for-the-badge&logo=PyCharm&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
-</div>
-## 📊 GitHub Analytics
-
-<div align="center">
-  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=techie-ranith&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=techie-ranith&layout=compact&theme=tokyonight"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=techie-ranith&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9" alt="GitHub Stats" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=techie-ranith&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" alt="Top Languages" />
 
 </div>
 
 <div align="center">
-  
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=techie-ranith&theme=tokyonight&hide_border=true)
-  
+
+![GitHub Streak](https://streak-stats.demolab.com?user=techie-ranith&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF)
+
 </div>
 
 <div align="center">
-  
-  ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=techie-ranith&bg_color=1a1b27&color=be90f2&line=638fda&point=35aea1&area=true&hide_border=true)
-  
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=techie-ranith&theme=github-compact&hide_border=true&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&area_color=1f6feb)
+
 </div>
 
-## 🏆 GitHub Achievements
+---
+
+## Featured Repositories
 
 <div align="center">
-  
-  ![Trophy](https://github-profile-trophy.vercel.app/?username=techie-ranith&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&column=7)
-  
-</div>
 
-## � Contribution Snake
+<a href="https://github.com/techie-ranith/flask-crud-app">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=techie-ranith&repo=flask-crud-app&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9" />
+</a>
+
+<a href="https://github.com/techie-ranith/portfolio-website">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=techie-ranith&repo=portfolio-website&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9" />
+</a>
+
+</div>
 
 <div align="center">
-  
-  ![Snake Animation](https://raw.githubusercontent.com/techie-ranith/techie-ranith/output/github-contribution-grid-snake-dark.svg)
-  
+
+<a href="https://github.com/techie-ranith/database-design-toolkit">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=techie-ranith&repo=database-design-toolkit&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9" />
+</a>
+
+<a href="https://github.com/techie-ranith/api-collection">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=techie-ranith&repo=api-collection&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9" />
+</a>
+
 </div>
 
-## 💡 Random Dev Quote
+---
+
+## Contribution Activity
 
 <div align="center">
-  
-  ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-  
+
+![Trophy](https://github-profile-trophy.vercel.app/?username=techie-ranith&theme=algolia&no-frame=true&no-bg=true&margin-w=4&column=7)
+
 </div>
 
-## 🎯 Current Focus
+<div align="center">
 
-```javascript
-const ranith = {
-    currentlyLearning: ["Advanced Flask", "Database Design", "RESTful APIs"],
-    currentProject: "Building a comprehensive CRUD application with Flask",
-    goals2025: [
-        "Master full-stack development",
-        "Contribute to open source projects",
-        "Build 10+ production-ready applications",
-        "Learn cloud technologies (AWS/Azure)"
-    ],
-    funFact: "I debug my code by explaining it to my rubber duck 🦆"
-}
-```
+![Snake animation](https://raw.githubusercontent.com/techie-ranith/techie-ranith/output/github-contribution-grid-snake-dark.svg)
 
-## 📈 Coding Activity
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
-## 🎵 Spotify Playing
-
-[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/31k6eosf4mbjz3hfqjhqn2kpz2va)
-
+</div>
 ---
 
 <div align="center">
   
-  ### Show some ❤️ by starring some of the repositories!
+### Show some ❤️ by starring repositories you find interesting!
   
-  ![Profile Views](https://komarev.com/ghpvc/?username=techie-ranith&style=for-the-badge&color=brightgreen)
+![Profile Views](https://komarev.com/ghpvc/?username=techie-ranith&style=flat-square&color=58a6ff)
   
 </div>
