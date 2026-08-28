@@ -1,5 +1,21 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 24" fill="none" role="img" aria-hidden="true">
-  <line x1="0" y1="12" x2="348" y2="12" stroke="#2A2A2A"/>
-  <circle cx="400" cy="12" r="3" fill="#C4A46A"/>
-  <line x1="452" y1="12" x2="800" y2="12" stroke="#2A2A2A"/>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 10" fill="none" role="img" aria-hidden="true">
+  <defs>
+    <linearGradient id="neon" x1="0" y1="0" x2="900" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#000000"/>
+      <stop offset="0.12" stop-color="#FF5A1F"/>
+      <stop offset="0.32" stop-color="#FFD24A"/>
+      <stop offset="0.52" stop-color="#2EE6C0"/>
+      <stop offset="0.78" stop-color="#2B8CFF"/>
+      <stop offset="1" stop-color="#000000"/>
+    </linearGradient>
+    <filter id="glow" x="-20%" y="-400%" width="140%" height="900%">
+      <feGaussianBlur stdDeviation="1.4" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+  <rect width="900" height="10" fill="#000000"/>
+  <rect x="8" y="4" width="884" height="2" rx="1" fill="url(#neon)" filter="url(#glow)"/>
 </svg>
