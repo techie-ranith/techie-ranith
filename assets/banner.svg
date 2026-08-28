@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1400 520" fill="none" role="img" aria-label="Ranith Gunawardana — Software Engineer">
+  <title>Ranith Gunawardana</title>
+  <defs>
+    <linearGradient id="wash" x1="0" y1="0" x2="1400" y2="520" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#0A0A0A"/>
+      <stop offset="1" stop-color="#121212"/>
+    </linearGradient>
+    <linearGradient id="gold" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#E8D5A8"/>
+      <stop offset="1" stop-color="#C4A46A"/>
+    </linearGradient>
+    <pattern id="grid" width="48" height="48" patternUnits="userSpaceOnUse">
+      <path d="M48 0H0V48" fill="none" stroke="#FFFFFF" stroke-opacity="0.032" stroke-width="1"/>
+    </pattern>
+  </defs>
+
+  <rect width="1400" height="520" fill="url(#wash)"/>
+  <rect width="1400" height="520" fill="url(#grid)"/>
+  <rect x="0.75" y="0.75" width="1398.5" height="518.5" stroke="#2A2A2A" stroke-width="1.5"/>
+  <rect x="0" y="0" width="5" height="520" fill="url(#gold)"/>
+
+  <text x="64" y="58" fill="#C4A46A" font-family="Georgia, 'Times New Roman', Times, serif" font-size="12" letter-spacing="5">01  —  SOFTWARE ENGINEER</text>
+  <text x="1336" y="58" fill="#7A756C" font-family="Georgia, 'Times New Roman', Times, serif" font-size="12" letter-spacing="3.5" text-anchor="end">SRI LANKA</text>
+
+  <text x="64" y="168" fill="#F6F1E8" font-family="Georgia, 'Times New Roman', Times, serif" font-size="76">Ranith</text>
+  <text x="64" y="250" fill="#F6F1E8" font-family="Georgia, 'Times New Roman', Times, serif" font-size="76">Gunawardana</text>
+
+  <text x="64" y="310" fill="#9A958B" font-family="Georgia, 'Times New Roman', Times, serif" font-size="20">Building scalable systems &amp; delightful experiences that perform.</text>
+  <text x="64" y="348" fill="#C4A46A" font-family="Georgia, 'Times New Roman', Times, serif" font-size="15" letter-spacing="3.2">WWW.RANITH.TECH</text>
+
+  <line x1="64" y1="392" x2="1336" y2="392" stroke="#2A2A2A"/>
+
+  <text x="64" y="438" fill="#7A756C" font-family="Georgia, 'Times New Roman', Times, serif" font-size="11" letter-spacing="3">FIRST CLASS HONOURS</text>
+  <text x="64" y="468" fill="#F6F1E8" font-family="Georgia, 'Times New Roman', Times, serif" font-size="18">BSc Computer Science</text>
+
+  <text x="420" y="438" fill="#7A756C" font-family="Georgia, 'Times New Roman', Times, serif" font-size="11" letter-spacing="3">CURRENTLY</text>
+  <text x="420" y="468" fill="#F6F1E8" font-family="Georgia, 'Times New Roman', Times, serif" font-size="18">Engineer · Toyota Lanka</text>
+
+  <text x="780" y="438" fill="#7A756C" font-family="Georgia, 'Times New Roman', Times, serif" font-size="11" letter-spacing="3">SHIPPED</text>
+  <text x="780" y="468" fill="#F6F1E8" font-family="Georgia, 'Times New Roman', Times, serif" font-size="18">3+ years · 50+ projects</text>
+
+  <text x="1120" y="438" fill="#7A756C" font-family="Georgia, 'Times New Roman', Times, serif" font-size="11" letter-spacing="3">FOCUS</text>
+  <text x="1120" y="468" fill="#F6F1E8" font-family="Georgia, 'Times New Roman', Times, serif" font-size="18">Full-stack systems</text>
+</svg>
