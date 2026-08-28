@@ -41,7 +41,7 @@
 
 <img src="./assets/divider.svg" alt="" width="100%" />
 
-## 01  —  About
+## About
 
 I'm a full-stack software engineer focused on clean interfaces, robust APIs, and systems that hold up in production. From clinical platforms and hotel SaaS to commerce and enterprise internals, I care about code quality, user experience, and shipping work that performs.
 
@@ -51,7 +51,7 @@ Currently a **Software Engineer Intern at Toyota Lanka**, building internal and 
 
 <img src="./assets/divider.svg" alt="" width="100%" />
 
-## 02  —  Specialization
+## Specialization
 
 <table>
   <tr>
@@ -78,7 +78,7 @@ Currently a **Software Engineer Intern at Toyota Lanka**, building internal and 
 
 <img src="./assets/divider.svg" alt="" width="100%" />
 
-## 03  —  Selected work
+## Selected work
 
 Shipped end-to-end — architecture, APIs, and the product surface. Full case studies on [ranith.tech](https://www.ranith.tech).
 
@@ -132,7 +132,7 @@ Shipped end-to-end — architecture, APIs, and the product surface. Full case st
 
 <img src="./assets/divider.svg" alt="" width="100%" />
 
-## 04  —  Milestones
+## Milestones
 
 - **2026** — First Class Honours, BSc (Hons) Computer Science, University of Plymouth
 - **2025–** — Software Engineer Intern, Toyota Lanka (intranet, OdysseyX, Autostream)
@@ -144,7 +144,7 @@ Shipped end-to-end — architecture, APIs, and the product surface. Full case st
 
 <img src="./assets/divider.svg" alt="" width="100%" />
 
-## 05  —  Stack
+## Stack
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=react,ts,nextjs,nodejs,nestjs,express,postgres,mongodb,prisma,docker,aws,azure,py,pytorch,flutter,tailwind,figma,git&perline=9" alt="Technologies I work with" />
@@ -152,7 +152,7 @@ Shipped end-to-end — architecture, APIs, and the product surface. Full case st
 
 <img src="./assets/divider.svg" alt="" width="100%" />
 
-## 06  —  Activity
+## Activity
 
 <div align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=techie-ranith&show_icons=true&hide_border=true&bg_color=0B0B0B&title_color=FF8C00&icon_color=2B8CFF&text_color=E8E4D9&ring_color=FF8C00&include_all_commits=true&count_private=true" alt="GitHub stats" />
@@ -177,7 +177,7 @@ Shipped end-to-end — architecture, APIs, and the product surface. Full case st
 
 <img src="./assets/divider.svg" alt="" width="100%" />
 
-## 07  —  Connect
+## Connect
 
 Building something that needs a reliable engineer — or just want to talk systems, product, or FOSS?
 
