@@ -47,25 +47,12 @@ const ranith = {
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/ranith2k3">
-    <img src="https://img.shields.io/badge/LINKEDIN-CONNECT-1C1D21?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" width="170" height="30" alt="LinkedIn" />
-  </a>
-  &nbsp;
-  <a href="https://twitter.com/_Ranith">
-    <img src="https://img.shields.io/badge/X(TWITTER)-FOLLOW-1C1D21?style=for-the-badge&logo=x&logoColor=white&labelColor=000000" width="170" height="30" alt="X" />
-  </a>
-  &nbsp;
-  <a href="https://www.instagram.com/ranith_gunawardana/">
-    <img src="https://img.shields.io/badge/INSTAGRAM-FOLLOW-1C1D21?style=for-the-badge&logo=instagram&logoColor=white&labelColor=E4405F" width="170" height="30" alt="Instagram" />
-  </a>
-  &nbsp;
-  <a href="https://www.ranith.tech">
-    <img src="https://img.shields.io/badge/WEBSITE-VISIT-1C1D21?style=for-the-badge&logo=vercel&logoColor=white&labelColor=000000" width="170" height="30" alt="Website" />
-  </a>
-  &nbsp;
-  <a href="mailto:ranithgunawardana@gmail.com">
-    <img src="https://img.shields.io/badge/GMAIL-EMAIL-1C1D21?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335" width="170" height="30" alt="Gmail" />
-  </a>
+  <a href="https://linkedin.com/in/ranith2k3"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" /></a>
+  <a href="https://twitter.com/_Ranith"><img src="https://skillicons.dev/icons?i=twitter" alt="X" /></a>
+  <a href="https://www.instagram.com/ranith_gunawardana/"><img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" /></a>
+  <a href="https://www.ranith.tech"><img src="https://skillicons.dev/icons?i=vercel" alt="Website" /></a>
+  <a href="https://github.com/techie-ranith"><img src="https://skillicons.dev/icons?i=github" alt="GitHub" /></a>
+  <a href="mailto:ranithgunawardana@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" /></a>
 </p>
 
 <br>
