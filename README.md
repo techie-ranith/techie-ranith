@@ -1,4 +1,4 @@
-<img width="100%" src="./assets/header-banner.jpg" alt="Ranith Gunawardana — Full-Stack Software Engineer" />
+<img width="100%" src="./assets/header-banner.gif" alt="Ranith Gunawardana — Full-Stack Software Engineer" />
 
 ## 🎯 About Me
 
