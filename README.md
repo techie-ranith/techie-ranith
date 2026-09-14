@@ -1,9 +1,5 @@
 <img width="100%" src="./assets/header-banner.jpg" alt="Ranith Gunawardana — Full-Stack Software Engineer" />
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=800&size=22&duration=3500&pause=900&color=f5f3f4&center=true&vCenter=true&width=720&lines=Full-Stack+Software+Engineer;First+Class+Computer+Science;React+%26+TypeScript+%26+NestJS;Building+scalable+systems+that+perform" alt="Typing headline" />
-</p>
-
 ## 🎯 About Me
 
 <table>
@@ -13,24 +9,24 @@
 ```typescript
 const ranith = {
     role: "Full-Stack Software Engineer",
-    education: "First Class · BSc Computer Science",
     location: "Sri Lanka 🇱🇰",
 
     building: [
-        "Clinical & enterprise platforms",
-        "Full-stack product systems"
+        "Scalable web systems",
+        "Full Stack Projects"
     ],
 
-    currently: [
-        "Software Engineer Intern @ Toyota Lanka",
-        "Shipping internal + customer-facing apps"
+    learning: [
+        "System Design",
+        "Cloud architecture",
+        "ML in production"
     ],
 
     tech: {
         frontend: ["React", "Next.js", "TypeScript"],
         backend: ["NestJS", "Node.js"],
         cloud: ["AWS", "Azure", "Docker"],
-        database: ["PostgreSQL", "MongoDB", "Prisma"]
+        database: ["PostgreSQL", "MongoDB"]
     }
 };
 ```
@@ -41,7 +37,7 @@ const ranith = {
 
 </td>
 <td width="42%" align="center" valign="middle">
-  <img src="./assets/about-desk.jpg" width="360" alt="Coding at night" />
+  <img src="./assets/about.gif" width="360" alt="Coding at the desk" />
 </td>
 </tr>
 </table>
@@ -51,13 +47,25 @@ const ranith = {
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://www.ranith.tech"><img src="https://img.shields.io/badge/WEBSITE-VISIT-1C1D21?style=for-the-badge&logo=vercel&logoColor=white&labelColor=000000" alt="Website" /></a>
+  <a href="https://linkedin.com/in/ranith2k3">
+    <img src="https://img.shields.io/badge/LINKEDIN-CONNECT-1C1D21?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" width="170" height="30" alt="LinkedIn" />
+  </a>
   &nbsp;
-  <a href="https://linkedin.com/in/ranith2k3"><img src="https://img.shields.io/badge/LINKEDIN-CONNECT-1C1D21?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" alt="LinkedIn" /></a>
+  <a href="https://twitter.com/_Ranith">
+    <img src="https://img.shields.io/badge/X(TWITTER)-FOLLOW-1C1D21?style=for-the-badge&logo=x&logoColor=white&labelColor=000000" width="170" height="30" alt="X" />
+  </a>
   &nbsp;
-  <a href="mailto:ranithgunawardana@gmail.com"><img src="https://img.shields.io/badge/GMAIL-EMAIL-1C1D21?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335" alt="Gmail" /></a>
+  <a href="https://www.instagram.com/ranith_gunawardana/">
+    <img src="https://img.shields.io/badge/INSTAGRAM-FOLLOW-1C1D21?style=for-the-badge&logo=instagram&logoColor=white&labelColor=E4405F" width="170" height="30" alt="Instagram" />
+  </a>
   &nbsp;
-  <a href="https://github.com/techie-ranith"><img src="https://img.shields.io/badge/GITHUB-FOLLOW-1C1D21?style=for-the-badge&logo=github&logoColor=white&labelColor=181717" alt="GitHub" /></a>
+  <a href="https://www.ranith.tech">
+    <img src="https://img.shields.io/badge/WEBSITE-VISIT-1C1D21?style=for-the-badge&logo=vercel&logoColor=white&labelColor=000000" width="170" height="30" alt="Website" />
+  </a>
+  &nbsp;
+  <a href="mailto:ranithgunawardana@gmail.com">
+    <img src="https://img.shields.io/badge/GMAIL-EMAIL-1C1D21?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335" width="170" height="30" alt="Gmail" />
+  </a>
 </p>
 
 <br>
@@ -118,54 +126,26 @@ Shipped end-to-end — architecture, APIs, and the product surface. Full case st
 
 ## 🛠️ Tech Stack
 
-<table align="center">
-<tr>
-<td width="50%" align="center" valign="top">
-
-### 🎨 Frontend & UI
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind,vite&perline=4" alt="Frontend" />
-
-<br>
-
-### ⚙️ Backend & Database
-
-<img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,py,postgres,mongodb,prisma,mysql&perline=4" alt="Backend" />
-
-<br>
-
-### 🤖 ML in product
-
-<img src="https://skillicons.dev/icons?i=py,pytorch,flask&perline=4" alt="ML" />
-
-</td>
-<td width="50%" align="center" valign="top">
-
-### ☁️ Cloud & DevOps
-
-<img src="https://skillicons.dev/icons?i=aws,azure,docker,linux,git,github,vercel&perline=4" alt="Cloud" />
-
-<br>
-
-### 📱 Mobile
-
-<img src="https://skillicons.dev/icons?i=flutter,dart&perline=4" alt="Mobile" />
-
-<br>
-
-### 🧰 Tools & Workflow
-
-<img src="https://skillicons.dev/icons?i=vscode,postman,figma,npm&perline=4" alt="Tools" />
-
-</td>
-</tr>
-</table>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,html,css,ts,react,nextjs,tailwind,nodejs,express,nestjs,mongodb,postgres,prisma,py,docker,aws,azure,git,vscode,figma,flutter,linux&perline=11" alt="Tech stack" />
+</p>
 
 <p align="center">
+  <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=reactrouter&logoColor=white" alt="React Router" />
+  <img src="https://img.shields.io/badge/React_Hook_Form-EC5990?style=for-the-badge&logo=reacthookform&logoColor=white" alt="React Hook Form" />
+  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" alt="Prisma" />
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS" />
   <img src="https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white" alt="Stripe" />
   <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="JWT" />
   <img src="https://img.shields.io/badge/TypeORM-FE0803?style=for-the-badge&logo=typeorm&logoColor=white" alt="TypeORM" />
   <img src="https://img.shields.io/badge/Zod-3E67B1?style=for-the-badge&logo=zod&logoColor=white" alt="Zod" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
+  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Cloudflare" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
+  <img src="https://img.shields.io/badge/OpenAPI-6BA539?style=for-the-badge&logo=openapiinitiative&logoColor=white" alt="OpenAPI" />
 </p>
 
 <br>
@@ -173,70 +153,23 @@ Shipped end-to-end — architecture, APIs, and the product surface. Full case st
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=techie-ranith&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true" alt="GitHub stats" />
-  <img width="49%" src="https://streak-stats.demolab.com?user=techie-ranith&theme=tokyonight&hide_border=true" alt="GitHub streak" />
-</p>
-
-<p align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=techie-ranith&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" />
-</p>
-
-<p align="center">
   <img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=techie-ranith&theme=tokyonight" alt="Profile details" />
 </p>
 
 <p align="center">
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=techie-ranith&theme=tokyonight" alt="Repos per language" />
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=techie-ranith&theme=tokyonight&utcOffset=5.5" alt="Productive time" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=techie-ranith&theme=tokyonight" alt="Top languages by repo" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=techie-ranith&theme=tokyonight&utcOffset=5.5" alt="Commits by time" />
 </p>
 
 <p align="center">
   <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=techie-ranith&theme=tokyonight" alt="Stats" />
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=techie-ranith&theme=tokyonight" alt="Most commit language" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=techie-ranith&theme=tokyonight" alt="Top languages by commit" />
 </p>
 
 ## 🏆 GitHub Trophies
 
 <p align="center">
   <a href="https://github.com/techie-ranith">
-    <img src="https://github-profile-trophy.vercel.app/?username=techie-ranith&theme=tokyonight&no-frame=false&no-bg=false&column=7&margin-w=4" alt="GitHub trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=techie-ranith&theme=radical&column=7&margin-w=4&margin-h=4" alt="GitHub trophies" />
   </a>
-</p>
-
-## 📈 Contribution Graph
-
-<p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=techie-ranith&theme=tokyo-night&hide_border=true&line=00E5FF&point=FFFFFF&area=true&area_color=00E5FF&color=00E5FF&title_color=00E5FF&bg_color=1A1B27" alt="Contribution graph" />
-</p>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/techie-ranith/techie-ranith/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/techie-ranith/techie-ranith/output/github-contribution-grid-snake.svg" />
-    <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/techie-ranith/techie-ranith/output/github-contribution-grid-snake.svg" />
-  </picture>
-</p>
-
-<p align="center">
-  <img height="32" src="https://komarev.com/ghpvc/?username=techie-ranith&label=PROFILE+VIEWS&style=for-the-badge&labelColor=181717&color=8B5CF6" alt="Profile views" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/github/followers/techie-ranith?style=for-the-badge&logo=github&logoColor=white&label=FOLLOWERS&labelColor=181717&color=38BDF8" alt="Followers" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&logo=github&logoColor=white&label=REPOSITORIES&labelColor=181717&color=F43F5E&query=public_repos&url=https://api.github.com/users/techie-ranith" alt="Repositories" />
-</p>
-
-<p align="center">
-  <b>Connect with <a href="https://www.ranith.tech">Ranith Gunawardana</a></b>
-</p>
-
-<p align="center">
-  <i>"Building scalable systems & delightful experiences that perform."</i>
-</p>
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&text=Thanks%20for%20Visiting!&fontSize=24&fontColor=ffffff&animation=fadeIn&color=1A1B27" alt="Thanks for visiting" />
 </p>
