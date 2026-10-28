@@ -1,5 +1,11 @@
 <img width="100%" src="./assets/header-banner.gif" alt="Ranith Gunawardana — Full-Stack Software Engineer" />
 
+<p align="center">
+  <a href="https://github.com/techie-ranith/techie-ranith/raw/main/assets/intro.mp4">
+    <img src="https://img.shields.io/badge/%F0%9F%94%8A_Play_intro_audio-Click_me-0D1117?style=for-the-badge&labelColor=238636" alt="Play intro audio" />
+  </a>
+</p>
+
 ## 🎯 About Me
 
 <table>
